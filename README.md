@@ -14,7 +14,7 @@ A .NET 8 Web API for processing and managing images with the following features:
 This project implements several modern architectural patterns and best practices:
 
 - **CQRS (Command Query Responsibility Segregation)**: Using MediatR for handling commands and queries
-- **Unit Testing**: Comprehensive test coverage using xUnit and Moq
+- **Unit Testing**: Comprehensive test coverage using NUnit
 - **Background Jobs**: Image processing tasks run in the background using IHostedService
 - **Containerization**: Docker support for easy deployment and scaling
 - **Error Handling**: Global error handling middleware with detailed error responses
@@ -23,7 +23,7 @@ This project implements several modern architectural patterns and best practices
 
 ## Prerequisites
 
-- .NET 8.0 SDK or later
+- .NET 8.0 SDK
 - Docker (optional, for containerized deployment)
 - An IDE (Visual Studio, VS Code, or Rider)
 
@@ -32,18 +32,19 @@ This project implements several modern architectural patterns and best practices
 ### Using dotnet CLI
 
 1. Clone the repository
-2. Navigate to the project directory:
-   ```bash
-   cd Abjjad
-   ```
-3. Build the project:
+2. Build the project:
    ```bash
    dotnet build
    ```
-4. Run the application:
+3. Run the application:
    ```bash
-   dotnet run
+   dotnet run --project Abjjad/Abjjad.csproj
    ```
+
+The API will be available at:
+
+- http://localhost:5192 (HTTP)
+- Swagger UI: http://localhost:5192/swagger
 
 ### Using Docker
 
@@ -72,13 +73,13 @@ The API will be available at:
 
 ### Upload Image
 
-- **POST** `/api/image/upload`
+- **POST** `/api/images/upload`
 - Accepts multipart/form-data with a file field
 - Returns image metadata including a unique ID
 
 ### Get Resized Image
 
-- **GET** `/api/image/{id}/resized?size={size}`
+- **GET** `/api/images/{id}/resized?size={size}`
 - Parameters:
   - `id`: The unique identifier of the image
   - `size`: One of "phone", "tablet", or "desktop"
@@ -86,7 +87,7 @@ The API will be available at:
 
 ### Get Image Metadata
 
-- **GET** `/api/image/{id}/metadata`
+- **GET** `/api/images/{id}/metadata`
 - Parameter:
   - `id`: The unique identifier of the image
 - Returns the image metadata in JSON format
@@ -123,7 +124,7 @@ The API includes comprehensive error handling for:
 To run the unit tests:
 
 ```bash
-dotnet test
+    dotnet test
 ```
 
 The test project includes comprehensive tests for:

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbjjadTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d220e69803bd0c725573d525c1bf427b7a3b5e5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbjjadTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbjjadTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,3 +37,4 @@
 /Users/omar/Developer/abjjad/Abjjad/obj/Debug/net8.0/Abjjad.pdb
 /Users/omar/Developer/abjjad/Abjjad/obj/Debug/net8.0/Abjjad.genruntimeconfig.cache
 /Users/omar/Developer/abjjad/Abjjad/obj/Debug/net8.0/ref/Abjjad.dll
+/Users/omar/Developer/abjjad/Abjjad/obj/Debug/net8.0/Abjjad.sourcelink.json

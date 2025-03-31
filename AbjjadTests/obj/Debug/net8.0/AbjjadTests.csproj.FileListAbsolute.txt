@@ -14,7 +14,6 @@
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/AbjjadTests.runtimeconfig.json
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/AbjjadTests.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/AbjjadTests.pdb
-/Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/Castle.Core.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/ExifLib.Standard.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/FluentValidation.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
@@ -31,7 +30,6 @@
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/testhost.dll
-/Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/Moq.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/NuGet.Frameworks.dll
 /Users/omar/Developer/abjjad/AbjjadTests/bin/Debug/net8.0/nunit.framework.dll
@@ -118,3 +116,4 @@
 /Users/omar/Developer/abjjad/AbjjadTests/obj/Debug/net8.0/AbjjadTests.pdb
 /Users/omar/Developer/abjjad/AbjjadTests/obj/Debug/net8.0/AbjjadTests.genruntimeconfig.cache
 /Users/omar/Developer/abjjad/AbjjadTests/obj/Debug/net8.0/ref/AbjjadTests.dll
+/Users/omar/Developer/abjjad/AbjjadTests/obj/Debug/net8.0/AbjjadTests.sourcelink.json

@@ -10,10 +10,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3265ae9c-144a-469f-8a92-ea0f8d6260f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Abjjad/Abjjad.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abjjad/Helpers/EnumSchemaFilter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abjjad/Models/ImageSize.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Abjjad/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Abjjad/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/bin/Debug/net8.0/Abjjad.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/bin/Debug/net8.0/Abjjad.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/bin/Debug/net8.0/Abjjad.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/bin/Debug/net8.0/Abjjad.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Abjjad.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Abjjad.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/Abjjad.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/ref/Abjjad.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/ref/Abjjad.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/refint/Abjjad.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/Debug/net8.0/refint/Abjjad.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abjjad/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Abjjad/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/AbjjadTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/AbjjadTests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/Abjjad.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/Abjjad.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/Abjjad.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/Abjjad.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/AbjjadTests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/AbjjadTests.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/AbjjadTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/AbjjadTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/AbjjadTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/AbjjadTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/Castle.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/CoverletSourceRootsMapping_AbjjadTests" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/CoverletSourceRootsMapping_AbjjadTests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/Moq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/bin/Debug/net8.0/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/AbjjadTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/AbjjadTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/AbjjadTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/AbjjadTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/AbjjadTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/ref/AbjjadTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/ref/AbjjadTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/refint/AbjjadTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/Debug/net8.0/refint/AbjjadTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbjjadTests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/AbjjadTests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +107,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.Abjjad: http.executor": "Run",
     ".NET Launch Settings Profile.AbjjadImageProcessor: http.executor": "Run",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Docker.Abjjad/Dockerfile.executor": "Run",
@@ -154,7 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743289202266</updated>
       <workItem from="1743289203976" duration="3295000" />
-      <workItem from="1743298932390" duration="14329000" />
+      <workItem from="1743298932390" duration="15037000" />
     </task>
     <servers />
   </component>
